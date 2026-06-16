@@ -5,65 +5,55 @@
 
     <h1 class="section-title">Technical Skills</h1>
 
-    <div class="skills-container">
+ <div class="skill-card">
+    <i class="fab fa-html5"></i>
+    <h3>HTML5</h3>
+</div>
 
-        <div class="skill">
-            <h3>HTML5</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:95%;">95%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fab fa-css3-alt"></i>
+    <h3>CSS3</h3>
+</div>
 
-        <div class="skill">
-            <h3>CSS3</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:90%;">90%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fab fa-js"></i>
+    <h3>JavaScript</h3>
+</div>
 
-        <div class="skill">
-            <h3>JavaScript</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:85%;">85%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fab fa-react"></i>
+    <h3>React.js</h3>
+</div>
 
-        <div class="skill">
-            <h3>React.js</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:80%;">80%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fab fa-node-js"></i>
+    <h3>Node.js</h3>
+</div>
 
-        <div class="skill">
-            <h3>Node.js</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:75%;">75%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fas fa-server"></i>
+    <h3>Express.js</h3>
+</div>
 
-        <div class="skill">
-            <h3>PHP</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:85%;">85%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fab fa-php"></i>
+    <h3>PHP</h3>
+</div>
 
-        <div class="skill">
-            <h3>MySQL</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:80%;">80%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fas fa-database"></i>
+    <h3>MySQL</h3>
+</div>
 
-        <div class="skill">
-            <h3>Git & GitHub</h3>
-            <div class="progress">
-                <div class="progress-bar" style="width:85%;">85%</div>
-            </div>
-        </div>
+<div class="skill-card">
+    <i class="fas fa-leaf"></i>
+    <h3>MongoDB</h3>
+</div>
 
-    </div>
+<div class="skill-card">
+    <i class="fab fa-git-alt"></i>
+    <h3>Git & GitHub</h3>
+</div>
 
 </section>
 

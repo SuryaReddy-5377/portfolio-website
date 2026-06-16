@@ -1,4 +1,3 @@
-```php
 <?php include 'includes/header.php'; ?>
 <?php include 'includes/navbar.php'; ?>
 
@@ -8,19 +7,17 @@
 
     <div class="project-grid">
 
-        <!-- Project 1 -->
-
+        <!-- Portfolio Website -->
         <div class="project-card">
 
             <img src="images/project1.png" alt="Portfolio Website">
 
-            <h3>Personal Portfolio Website</h3>
+            <h3>Portfolio Website</h3>
 
             <p>
-                A responsive personal portfolio website developed using
-                HTML, CSS, JavaScript, PHP and MySQL. It showcases my
-                skills, projects, certifications and provides a working
-                contact form connected to a MySQL database.
+                A responsive personal portfolio website showcasing my skills,
+                projects, certifications, resume, and contact information.
+                Designed with a modern UI and built using PHP with responsive layouts.
             </p>
 
             <h4>Technologies Used</h4>
@@ -33,7 +30,7 @@
                     Live Demo
                 </a>
 
-                <a href="https://github.com/SuryaReddy-5377"
+                <a href="https://github.com/SuryaReddy-5377/portfolio-website"
                    class="btn btn-outline"
                    target="_blank">
                     GitHub
@@ -43,18 +40,17 @@
 
         </div>
 
-        <!-- Project 2 -->
-
+        <!-- Blog Platform -->
         <div class="project-card">
 
-            <img src="images/project2.png" alt="Task Management System">
+            <img src="images/project2.png" alt="Blog Platform">
 
-            <h3>Task Management System</h3>
+            <h3>Blog Platform</h3>
 
             <p>
-                A full-stack task management application that allows users
-                to create, update, delete and organize daily tasks through
-                a secure and responsive dashboard.
+                A full-stack blogging platform where users can register,
+                log in, create blogs, edit posts, delete blogs, and explore
+                articles shared by other users with a clean responsive interface.
             </p>
 
             <h4>Technologies Used</h4>
@@ -67,7 +63,7 @@
                     Live Demo
                 </a>
 
-                <a href="YOUR_TASK_MANAGER_GITHUB_LINK"
+                <a href="https://github.com/SuryaReddy-5377/Blog-platform-Final"
                    class="btn btn-outline"
                    target="_blank">
                     GitHub
@@ -77,8 +73,7 @@
 
         </div>
 
-        <!-- Project 3 -->
-
+        <!-- E-Commerce Website -->
         <div class="project-card">
 
             <img src="images/project3.png" alt="E-Commerce Website">
@@ -86,9 +81,9 @@
             <h3>E-Commerce Website</h3>
 
             <p>
-                A modern full-stack e-commerce application with secure user
-                authentication, shopping cart, product management, order
-                processing and an admin dashboard.
+                A modern e-commerce application featuring user authentication,
+                product browsing, shopping cart, secure checkout, order management,
+                and a responsive admin dashboard for managing products and users.
             </p>
 
             <h4>Technologies Used</h4>
@@ -101,7 +96,7 @@
                     Live Demo
                 </a>
 
-                <a href="YOUR_ECOMMERCE_GITHUB_LINK"
+                <a href="https://github.com/SuryaReddy-5377/e-commerce"
                    class="btn btn-outline"
                    target="_blank">
                     GitHub
@@ -116,4 +111,3 @@
 </section>
 
 <?php include 'includes/footer.php'; ?>
-```

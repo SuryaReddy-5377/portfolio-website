@@ -13,12 +13,18 @@
 
             <h1>About Me</h1>
 
-            <p>
-                Hello! I'm <strong>Surya Manohar Reddy Goluguri</strong>, a
-                B.Tech Computer Science student passionate about Full Stack Web
-                Development and modern technologies.
-            </p>
+           <p>
+Hello! I'm <strong>Surya Manohar Reddy Goluguri</strong>, a passionate B.Tech Computer Science student with a strong interest in Full Stack Web Development. I enjoy building responsive and user-friendly web applications using HTML, CSS, JavaScript, PHP, MySQL, React.js, Node.js, Express.js, and MongoDB.
 
+I have successfully completed projects including a Personal Portfolio Website, Task Management System, and E-Commerce Website. I am always eager to learn new technologies and improve my programming skills by solving real-world problems.
+</p>
+<ul class="about-details">
+    <li><strong>Name:</strong> Surya Manohar Reddy Goluguri</li>
+    <li><strong>Education:</strong> B.Tech Computer Science & Engineering</li>
+    <li><strong>Location:</strong> Parvathipuram, Andhra Pradesh</li>
+    <li><strong>Email:</strong> suryareddy5377@gmail.com</li>
+    <li><strong>Phone:</strong> 9796143143</li>
+</ul>
             <p>
                 I enjoy developing responsive websites and web applications
                 using HTML, CSS, JavaScript, PHP, MySQL, React.js, Node.js,
