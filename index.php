@@ -11,15 +11,12 @@
         <h1>Surya Manohar Reddy Goluguri</h1>
 
         <h2><span id="typing"></span></h2>
-
-        <p>
             <p>
 I am a passionate Full Stack Web Developer and B.Tech Computer Science student.
 I enjoy building responsive websites and web applications using HTML,CSS,
  PHP, MySQL, React.js and Node.js. I love solving real-world
 problems through clean and efficient code.
 </p>
-        </p>
 
         <div class="hero-buttons">
 
