@@ -26,7 +26,7 @@
 
             <div class="project-buttons">
 
-                <a href="#" class="btn" target="_blank">
+                <a href="ComingSoon.html" class="btn" target="_blank">
                     Live Demo
                 </a>
 
@@ -59,7 +59,7 @@
 
             <div class="project-buttons">
 
-                <a href="#" class="btn" target="_blank">
+                <a href="ComingSoon.html" class="btn" target="_blank">
                     Live Demo
                 </a>
 
@@ -92,7 +92,7 @@
 
             <div class="project-buttons">
 
-                <a href="#" class="btn" target="_blank">
+                <a href="ComingSoon.html" class="btn" target="_blank">
                     Live Demo
                 </a>
 
