@@ -2,7 +2,7 @@
 
     <h3>SURYA MANOHAR REDDY GOLUGURI</h3>
 
-    <p>Full Stack Web Developer | B.Tech CSE Student</p>
+    <p>Full Stack Web Developer | B.Tech CSE(AI&ML) Student</p>
 
     <div class="social-icons">
 
