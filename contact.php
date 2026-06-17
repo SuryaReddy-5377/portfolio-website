@@ -58,6 +58,7 @@ if(isset($_POST['submit'])){
 </div>
 
 <div class="contact-form">
+    Response within 24 hours
 
 <?php
 if($message!=""){
