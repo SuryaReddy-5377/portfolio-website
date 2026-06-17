@@ -16,11 +16,6 @@
 </div>
 
 <div class="skill-card">
-    <i class="fab fa-js"></i>
-    <h3>JavaScript</h3>
-</div>
-
-<div class="skill-card">
     <i class="fab fa-react"></i>
     <h3>React.js</h3>
 </div>
