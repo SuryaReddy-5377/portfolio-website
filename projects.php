@@ -83,7 +83,7 @@
             <p>
                 A modern e-commerce application featuring user authentication,
                 product browsing, shopping cart, secure checkout, order management,
-                and a responsive admin dashboard for managing products and users.
+                and a responsive admin dashboard for managing  users.
             </p>
 
             <h4>Technologies Used</h4>
