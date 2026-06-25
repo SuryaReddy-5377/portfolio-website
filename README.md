@@ -49,6 +49,3 @@ ApexPlanet-Task-1-Portfolio/
 ## 👨‍💻 Developed By
 
 Surya Manohar Reddy Goluguri 
-
-
-reddyyy
